@@ -1,0 +1,31 @@
+$color-negro: #000000;
+$color-oro: #F2B705;
+ion-header {
+    ion-toolbar {
+        background-color: $color-negro;
+        ion-title {
+            color: #fff;
+        }
+    }
+}
+
+ion-content {
+    ion-list {
+        ion-label {
+            color: $color-negro;
+        }
+        ion-input {
+            --ion-color-base: $color-negro;
+        }
+    }
+    ion-button {
+        --ion-color-base: $color-oro;
+        --ion-text-color: $color-negro;
+    }
+    ion-note {
+        color: $color-negro;
+        a {
+            color: $color-oro;
+        }
+    }
+}
