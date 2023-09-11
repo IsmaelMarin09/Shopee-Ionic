@@ -1,2 +1,2 @@
-# Shoppe-Ionic
-Parcial ambintes moviles, SHOPPE
+# Shopee-Ionic
+Parcial ambintes moviles, SHOPEE
